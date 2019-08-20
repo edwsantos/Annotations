@@ -1,0 +1,3 @@
+This module is the sub-module of AnnotationProcessingExample.
+In this module, we're going to create a new annotation and its corresponding annotation processing class.
+Please keep in mind that this module must be compiled by compiling the root module (Annotations) to get the annotation working...
